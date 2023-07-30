@@ -1,3 +1,5 @@
+echo "EBS Setup started"
+
 eb init udagram-api --region us-east-1
 
 eb setenv AWS_BUCKET=$AWS_BUCKET
