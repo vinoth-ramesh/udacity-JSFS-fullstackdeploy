@@ -15,6 +15,6 @@ eb setenv URL=$URL
 
 eb list
 
-eb use udagram-api-env
+eb use udagram-api-dev
 
-eb deploy udagram-api-env
+eb deploy udagram-api-dev
