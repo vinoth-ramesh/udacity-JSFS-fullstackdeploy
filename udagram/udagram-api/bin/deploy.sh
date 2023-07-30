@@ -1,3 +1,4 @@
+#! /bin/bash
 echo "EBS Setup started"
 
 eb init udagram-api --region us-east-1
